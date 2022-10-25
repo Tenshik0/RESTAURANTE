@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157779377546",
+    "project_id": "ventas-6547a",
+    "storage_bucket": "ventas-6547a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157779377546:android:60546dd0108b65ebbcdc73",
+        "android_client_info": {
+          "package_name": "com.teamihc.inventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157779377546-ok1ip810lqgpl6stmijrr75s4bitc8uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdG9uNVR9opY22CjeBjVuHHtbIhfkQ7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157779377546-ok1ip810lqgpl6stmijrr75s4bitc8uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/drawable/custom_email_icon.xml" value="0.1285" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/activity_carrito.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/activity_crear_producto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/activity_factura.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/activity_historial_tasa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/activity_historial_ventas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/activity_main.xml" value="0.2918395573997234" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/activity_registro.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/fragment_estadisticas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/fragment_inventario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/fragment_lista_productos_venta.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/fragment_maps.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/fragment_tasas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/fragment_ventas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_cambiar_tasa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_consultar_dia_ventas.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_info_producto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_info_producto_factura.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_info_tasa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_info_venta.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_info_venta_historial.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_seleccionar_cantidad.xml" value="0.33" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_spinner_estadistica.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_topbar.xml" value="0.33" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_topbar_crear_articulo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Vic_HP/Desktop/carne fresca/app/src/main/res/layout/view_topbar_historial_tasa.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
