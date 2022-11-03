@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226975831492",
+    "firebase_url": "https://restaurante-d7be9-default-rtdb.firebaseio.com",
+    "project_id": "restaurante-d7be9",
+    "storage_bucket": "restaurante-d7be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226975831492:android:e3bb1c1b53f0a86b7f4091",
+        "android_client_info": {
+          "package_name": "com.teamihc.inventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226975831492-gct5ijkjivge47hmq9gkuogd1ifeehrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtQolHcF_7AoGDkcru7OHW7QTSnizzfiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226975831492-gct5ijkjivge47hmq9gkuogd1ifeehrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
